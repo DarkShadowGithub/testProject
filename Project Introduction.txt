@@ -1,1 +1,5 @@
-       
+                                                                     Project Introduction
+	The project I am hoping to make is a calculator. The calculator will have similar features as the one you can find just by looking up calculator 
+on Google. It won't have features that are specific to scientific calculators or buisness calculators, but it will be able to calculate things like 
+multiplication, additon, subtraction, divison, trig functions, rationals, exponentials, and logirithms. 
+ 
